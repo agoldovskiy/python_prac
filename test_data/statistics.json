@@ -1,0 +1,23 @@
+{
+    "total_requests": 5,
+    "requests_by_ip": {
+        "192.168.1.10": 2,
+        "192.168.1.15": 2,
+        "192.168.1.20": 1
+    },
+    "requests_by_method": {
+        "GET": 4,
+        "POST": 1
+    },
+    "requests_by_status": {
+        "192": 5
+    },
+    "requests_by_url": {
+        "/index.html": 1,
+        "/login": 2,
+        "/admin": 1,
+        "/api/users": 1
+    },
+    "total_4xx_errors": 0,
+    "most_frequent_url": "/login"
+}
